@@ -43,6 +43,13 @@ This tutorial shows you how to create a Resource Group on Microsoft Azure.<br />
 <img src="https://i.imgur.com/V8pl0Kh.png"/>
 </p>
 <p>
-3. Enter in any tags you want to use(optional).
+3. Enter in any tags you want to use (optional).
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/vU4i6F1.png"/>
+</p>
+<p>
+4. Click "review + create". You have to make sure everything is green check-marked. Once all of the information is correct, click "Create" and the resource group is now created.
 </p>
 <br />
